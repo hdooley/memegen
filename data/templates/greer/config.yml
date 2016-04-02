@@ -1,0 +1,10 @@
+name: ERG GREER
+link: ''
+default:
+- ERG
+- GREER
+aliases:
+- erg
+- greer
+regexes:
+- ''
